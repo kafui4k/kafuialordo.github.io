@@ -1,0 +1,18 @@
+.about {
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	max-width: 750px;
+	padding: 10px;
+}
+
+.about-items {
+	display: flex;
+	gap: 16px;
+}
+
+.image {
+	width: 40%;
+	height: 40vmin;
+	border-radius: 20px;
+}
